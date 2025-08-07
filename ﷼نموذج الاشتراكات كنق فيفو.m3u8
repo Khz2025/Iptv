@@ -2057,7 +2057,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BA:1D:C9&stream=421548&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BA:1D:C9&stream=421547&extension=m3u8&play_token=6ImTntqrcY
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="أأتش بي أو",##### HBO #####
+#EXTINF:-1 tvg-logo="" group-title="أتش بي أو",##### HBO #####
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BA:1D:C9&stream=1275555&extension=m3u8&play_token=6ZFqcdQLjH
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1275554.png" group-title="أتش بي أو",AR| HBO TOP TEN
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:BA:1D:C9&stream=1275554&extension=m3u8&play_token=zSiQlyT3CO
